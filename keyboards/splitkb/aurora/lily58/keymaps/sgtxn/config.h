@@ -1,5 +1,5 @@
 #define DEBOUNCE 3
-#define DEBOUNCE_TYPE sym_defer_pk
+#define DEBOUNCE_TYPE sym_defer_g
 
 #define USB_POLLING_INTERVAL_MS 1
 #define QMK_KEYS_PER_SCAN 12
